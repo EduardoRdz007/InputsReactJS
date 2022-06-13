@@ -13,10 +13,25 @@ input{
   border-radius: 5px;
   border: 1px solid #39c;
   width: 250px;
-  padding: 5px;
+  padding: 10px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;	
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #6e938d;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
 }
